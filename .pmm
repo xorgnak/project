@@ -1,2 +1,4 @@
-source pmm
-log "worked."
+source pmm # source tool.
+PROJECT='projectname' # set defines.
+# do stuff.
+log "I'm all done!" # log actions.
