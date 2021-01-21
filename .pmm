@@ -1,6 +1,6 @@
 source pmm # source tool.
 PROJECT='projectname' # set defines.
-PACKAGES='git'
+export PACKAGES='git' # install dependancies
 # do stuff.
 
 log "I'm all done!" # log actions.
